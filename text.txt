@@ -1,0 +1,4 @@
+cart: <i class="fa-solid fa-cart-shopping"></i>
+search: <i class="fa-solid fa-magnifying-glass"></i>
+map: <i class="fa-solid fa-location-dot"></i>
+menu: <i class="fa-solid fa-bars"></i>
